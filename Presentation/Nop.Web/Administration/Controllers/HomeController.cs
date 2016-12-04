@@ -21,6 +21,7 @@ namespace Nop.Admin.Controllers
 {
     public partial class HomeController : BaseAdminController
     {
+        //home
         #region Fields
         private readonly IStoreContext _storeContext;
         private readonly AdminAreaSettings _adminAreaSettings;
